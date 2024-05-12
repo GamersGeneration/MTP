@@ -1,0 +1,7 @@
+Constraints - Directional or  Omni already specified. 
+Assuming network to be uniform
+Firstly scan the network . 
+
+Density  - 
+If wide apart
+density wont be efficient
